@@ -1,0 +1,34 @@
+/*
+** License: GPL (http://www.gnu.org/copyleft/gpl.html)
+**
+** KnowNow Wikimedia 1.17 extension by Alfredo Di Maria - http://www.alfredodimaria.it - linuxloverstaff (at) gmail.com
+** This extension lists recent revisions of the current page and of the wiki. Ajax functions update the box every minute.
+*/
+#KnowNow_recentMod {
+	font-size: 0.5em;
+	border-style:solid;
+	border-color:black;
+	padding: 1em;
+	border-width: 1px;
+	background-color: white;
+	overflow:hidden;
+	height:170px;
+	line-height: 1em;
+	height:7em;
+}
+
+.KN_littleTitle {
+	font-weight: bold;
+}
+
+#KnowNow_globalMod {
+	font-size: 0.5em;
+	border-style:solid;
+	border-color:black;
+	padding: 1em;
+	border-width: 1px;
+	background-color: white;
+	overflow:hidden;
+	line-height: 1em;
+	height:7em;
+}
